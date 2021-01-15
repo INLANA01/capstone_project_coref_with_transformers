@@ -1,1 +1,3 @@
 # capstone_project_coref_with_transformers
+
+Abstract: Co-reference resolution is the task of automatically determining the chain of expressions in language that refers to the same entity or antecedent. In this project, I am going to explore transformer models, including the BERT model and recent variants of its representation (e.g., ALBERT), adapting them to the co-reference resolution task and measuring performance comparatively. This will include both quantitative and qualitative model analysis, including visualization. Moreover, I will compare the performance of transformer models on languages demonstrating different pronominal complexity as well as English data which includes non-binary pronoun. 
